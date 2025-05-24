@@ -22,16 +22,13 @@ git clone https://github.com/RafaDEV99/My-Dotfiles.git
 Homebrew (for macOS):
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
 ```
 
 Nvim (macOS):
 ```
 brew install nvim
-
 ```
 Zsh (macOS);
 ```
 brew install zsh
-
 ```
