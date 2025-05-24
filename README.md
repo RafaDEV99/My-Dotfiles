@@ -1,2 +1,2 @@
 # My-Dotfiles
-This contains my dotfiles
+This contains all my dotfiles
