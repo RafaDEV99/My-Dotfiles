@@ -121,6 +121,7 @@ eval "$(pyenv init -)"
 alias vim=vim
 alias treeES="/Users/rafaleon/Desktop/Cool\ stuff\ in\ Unix/Navidad/ChristBASHTree/tree-ES.sh"
 alias treeEN="/Users/rafaleon/Desktop/Cool\ stuff\ in\ Unix/Navidad/ChristBASHTree/tree-EN.sh"
+alias CR="./EpicClear.sh"
 
 eval "$(starship init zsh)"
 
