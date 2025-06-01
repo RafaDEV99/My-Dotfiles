@@ -14,7 +14,6 @@ stay tuned!! :D
 
 ```
 git clone https://github.com/RafaDEV99/My-Dotfiles.git
-
 ```
 
 # Install deps:
