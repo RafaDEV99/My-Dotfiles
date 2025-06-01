@@ -8,7 +8,11 @@ This contains all my dotfiles
 
 # Here i use git
 You need to have git installed!!
-stay tuned!! :D
+
+Remember install git with:
+``` 
+brew install git
+```
 
 # How to include this on your machine:
 
@@ -16,7 +20,7 @@ stay tuned!! :D
 git clone https://github.com/RafaDEV99/My-Dotfiles.git
 ```
 
-# Install deps:
+# Install deps (macOS): 
 
 Homebrew (for macOS):
 ```
@@ -31,3 +35,5 @@ Zsh (macOS);
 ```
 brew install zsh
 ```
+
+Thats all! (for now ;3)
