@@ -6,10 +6,10 @@ This contains all my dotfiles
 - zsh
 - more..
 
-# Here i use git
+# Here I use git
 You need to have git installed!!
 
-Remember install git with:
+Remember to install git with:
 ``` 
 brew install git
 ```
@@ -36,4 +36,4 @@ Zsh (macOS);
 brew install zsh
 ```
 
-Thats all! (for now ;3)
+That's all! (for now)
