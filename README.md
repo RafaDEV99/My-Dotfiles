@@ -1,6 +1,6 @@
 # My-Dotfiles
-This contains all my personal dotfiles for macOS
-The setup is above
+This contains all my personal dotfiles for macOS,
+the setup is above
 
 > [!NOTE]
 > This is not all for now
