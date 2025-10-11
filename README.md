@@ -1,10 +1,13 @@
 # My-Dotfiles
-This contains all my dotfiles
+This contains all my personal dotfiles for macOS!
+
+> [!NOTE]
+> This is not all for now
 
 # Remember to have installed:
 - nvim
 - zsh
-- more..
+- homebrew
 
 # Here I use git
 You need to have git installed!!
