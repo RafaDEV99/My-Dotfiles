@@ -1,9 +1,9 @@
 # My-Dotfiles
 This contains all my personal dotfiles for macOS,
-the setup is above
+The setup is above:
 
 > [!NOTE]
-> This is not all for now
+> This is not all for now...
 
 # Remember to have installed:
 - nvim
