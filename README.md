@@ -39,5 +39,3 @@ Zsh (macOS);
 ```
 brew install zsh
 ```
-
-***That's all! (for now)***
