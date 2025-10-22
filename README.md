@@ -3,7 +3,7 @@ This contains all my personal dotfiles for macOS,
 The setup is above:
 
 > [!NOTE]
-> This is not all for now...
+> First read the deps, please
 
 # Remember to have installed:
 - nvim
