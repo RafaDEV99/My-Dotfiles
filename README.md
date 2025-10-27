@@ -3,7 +3,7 @@ This contains all my personal dotfiles for macOS,
 The setup is above:
 
 > [!NOTE]
-> First read the deps, please
+> First read the deps, please, and execute them in order 
 
 # Remember to have installed:
 - nvim
