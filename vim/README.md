@@ -1,6 +1,5 @@
 Ok, my Vim files are good!
 
-# Todos for later:
+# TODO:
 - add things
 - I don´t know really
-- :P
