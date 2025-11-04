@@ -39,3 +39,8 @@ Zsh (macOS);
 ```
 brew install zsh
 ```
+
+Oh my ZSH also:
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
