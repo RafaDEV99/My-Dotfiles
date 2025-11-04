@@ -1,5 +1,5 @@
 > [!NOTE]
-> First read the deps, please, and execute them in order
+> First read the deps, please, and execute them in the following order
 
 # My-Dotfiles
 This contains all my personal dotfiles for macOS,
