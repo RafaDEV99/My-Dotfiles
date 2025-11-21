@@ -32,7 +32,7 @@ Nvim (macOS):
 ```
 brew install nvim
 ```
-NvChat (Optional):
+[NvChat](https://nvchad.com) (Optional):
 ```
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 ```
