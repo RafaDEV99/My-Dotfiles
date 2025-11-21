@@ -32,6 +32,11 @@ Nvim (macOS):
 ```
 brew install nvim
 ```
+NvChat (Optional):
+```
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+```
+
 Zsh (macOS);
 ```
 brew install zsh
@@ -41,3 +46,5 @@ Oh my ZSH also:
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
+End of the setup
